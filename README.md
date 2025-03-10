@@ -1,6 +1,6 @@
 ﻿# RRHHConSpring
 CRUD con java (spring) y react
 Listar empleados
-buscar po id
+buscar por id
 Editar empleado
 borrar empleado
